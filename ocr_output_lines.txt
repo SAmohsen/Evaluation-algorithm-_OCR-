@@ -1,0 +1,4 @@
+﻿It was hard to know that 3.5 million people in egypt are blind.
+Then from our call of duty to serve the community, we decided to help them.
+This document contains & paragraph that will be converted to a text after captunng the paper using pi camera, then passes through all the pre-processing phases. reaching the OCR engine.
+Then it will be converted to a voice using a TTS( Text To Speech) algoathm.
